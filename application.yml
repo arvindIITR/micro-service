@@ -3,3 +3,5 @@ spring:
     name: configserver
 server:
   port: 9090
+conf:
+  test: conftest
